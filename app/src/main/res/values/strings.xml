@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">PARKET</string>
     <string name="title_activity_maps">Map</string>
-    <string name="google_maps_api">AIzaSyB0I_hC6gsC8UpzfDGS_7M2a-tNhh7olA8</string>
+    <string name="google_maps_api">YOUR_GOOGLE_MAPS_API_KEY</string>
 </resources>
