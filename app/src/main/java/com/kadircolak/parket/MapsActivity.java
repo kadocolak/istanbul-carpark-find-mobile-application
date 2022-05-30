@@ -49,7 +49,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private double startHour = 0;
     private double finishHour = 0;
     private double nowDistance = 0;
-    private String tomtomApi = "BGIsg8FveblTPXxLwDAZg10XxlODvQDq";
+    private String tomtomApi = "YOUR_TOMTOM_API_KEY ";
     private RequestQueue request;
 
     public void opening()
